@@ -1,2 +1,2 @@
-# Sentiment-Analysis-with-XLNet-Model
+# Sentiment-Analysis-with-XLNet-and-BERT-Model
 Task Machine Learning dengan tujuan mengklasifikasi teks dengan sentiment/opini kedalam class positif dan negatif. Task ini akan diselesaikan dengan model Transformer yaitu XLNet yang cukup populer dan sedang naik daun karena memiliki tingkat akurasi yang cukup tinggi. Dataset yang digunakan adalah data dari situs penyedia layanan jasa travel online yang cukup populer yaitu TripAdvisor.
